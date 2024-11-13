@@ -10,7 +10,7 @@ from plugins import *
 
 @plugins.register(
     name="DouyinDuanju",
-    desire_priority=0,
+    desire_priority=100,
     desc="抖音短剧资源查询插件，支持以下功能：\n1. 抖音短剧 [剧名] - 搜索短剧\n2. 抖音短剧 [book_id] - 获取1-5集播放链接\n3. 抖音短剧 [book_id] 第n集 - 获取n集开始的5集播放链接",
     version="2.4",
     author="Lingyuzhou",
