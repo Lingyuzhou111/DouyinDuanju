@@ -7,7 +7,6 @@
 - 插件名称：DouyinDuanju
 - 作者：Lingyuzhou
 - 版本：2.4
-- API来源：hhlqilongzhu.cn
 
 ## 功能特点
 - 智能搜索：返回最相关的5个搜索结果
